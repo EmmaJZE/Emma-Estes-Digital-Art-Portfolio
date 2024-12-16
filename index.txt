@@ -1,0 +1,27 @@
+<DOCTYPE! html>
+<html>
+<body>
+<head>
+<style>
+body {
+background-color: lavender;
+color: purple;
+}
+</style>
+<title>Emma Estes - Digital Art Portfolio</title>
+<meta charset="UTF-8"
+</head>
+<body>
+ 
+
+<h1>Emma Estes - Digital Art Portfolio</h1>
+<hr>
+<h2>Project 1: 2D Digital Design (Southworth Planetarium Logo)</h2>
+<p></p>
+<img src="emma_estes_southworth_planetarium_logo_v1.jpg">
+<img src="emma_estes_southworth_planetarium_logo_v2.jpg">
+
+<a href="
+
+</body>
+</html>
